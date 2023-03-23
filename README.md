@@ -1,4 +1,8 @@
-### Hi there 👋
+### Profile  
+## About me  
+(I cannot speak English well. Now can only speak Japanese.)  
+現在はJavaScriptで小規模身内鯖向けのDiscord botを書いていたり、マイクラのコマンドをいじっていたりします。  
+Javaもちょっとだけやってます...ほんとにちょっとだけです...  
 
 <!--
 **taku1417/taku1417** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
