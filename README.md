@@ -1,4 +1,3 @@
-### Profile  
 ## About me  
 (I cannot speak English well. Now can only speak Japanese.)  
 現在はJavaScriptで小規模身内鯖向けのDiscord botを書いていたり、マイクラのコマンドをいじっていたりします。  
